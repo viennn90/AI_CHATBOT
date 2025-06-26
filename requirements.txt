@@ -8,6 +8,6 @@ langchainhub==0.1.21
 langchain-community==0.3.24
 langchain-experimental==0.3.4
 langchain-core
-chromadb==0.4.22
+chromadb
 python-dotenv==1.1.0
 pypdf
